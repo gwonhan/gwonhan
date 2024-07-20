@@ -43,7 +43,20 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)<br/>
+
 </div>
+
+
+ <h1 align ="center">📞 Contact 📞</h1>
+<div align ="center"">
+    <a href="https://www.instagram.com/authority______">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:h2odream@naver.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
+
 
 
